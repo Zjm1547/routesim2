@@ -7,6 +7,7 @@ class Distance_Vector_Node(Node):
 
     # Return a string
     def __str__(self):
+        print("la dee dah dee dah")
         return "Rewrite this function to define your node dump printout"
 
     # Fill in this function
